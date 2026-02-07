@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: hsl(29, 65%, 55%);
+    background-color: hsl(29, 71%, 81%);
 }
 
 #invalid {
@@ -26,7 +26,7 @@ li {
 
 input {
     outline: none;
-    padding: 10px;
+    padding: 15px;
     text-align: center;
     border-radius: 5px;
     border: none;
@@ -38,13 +38,15 @@ button {
     border: none;
     cursor: pointer;
     color: white;
-    background-color: hsl(24, 71%, 66%);
+    background-color: hsl(25, 34%, 45%);
 }
 
 .container {
-    background-color: hsl(29, 96%, 69%);
+    background: linear-gradient(120deg, hsl(18, 59%, 86%) ,hsl(17, 34%, 62%));
     padding: 20px;
     border-radius: 20px;
+    box-shadow: 0 10px 25px hsl(18, 59%, 86%);
+    -webkit-box-reflect: below 10px linear-gradient(transparent, rgba(0, 0, 0, 0.3));
     width: 40%;
     margin-left: auto;
     margin-right: auto;
