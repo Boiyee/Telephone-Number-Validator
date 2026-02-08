@@ -1,3 +1,3 @@
-### Freecodescamp Challenge
+### Freecodescamp Certification Project
 
 ## Telephone Number Validator (US)
